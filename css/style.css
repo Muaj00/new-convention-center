@@ -1,0 +1,12 @@
+/* custom css*/
+
+.card--style {
+    background-color: #3f87f5;
+    border-radius: 10px;
+  }
+
+  .badge--pos {
+    position: relative;
+    top: -100%;
+    left: 35%;
+  }
